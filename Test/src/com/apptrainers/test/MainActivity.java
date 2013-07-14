@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.e("Hanan","Repo for testing synchrosizing");
+		Log.e("Hanan","Repo for testing synchrosizing2");
 	}
 
 	@Override
